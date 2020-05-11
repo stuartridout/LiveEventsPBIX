@@ -1,5 +1,4 @@
 # Power BI Dashboard for Live Event Analysis Documentation
-Teams Live Events Power BI Dashboard
 
 | [Introduction](https://github.com/stuartridout/LiveEventsPBIX/wiki) | [Deployment Guide](https://github.com/stuartridout/LiveEventsPBIX/wiki/Deployment-Guide) |
 |---|---|
